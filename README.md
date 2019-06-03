@@ -1,3 +1,3 @@
 # Learn-ML-stuff
 
-stuff I aleardy went through.
+Stuff I already went through.
